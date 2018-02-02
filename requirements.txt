@@ -1,0 +1,12 @@
+parsimonious
+gensim
+sklearn
+flask
+flask_socketio
+tabulate
+termcolor
+pytest
+pytest-runner
+pytest-pep8
+pytest-xdist
+pytest-cov
