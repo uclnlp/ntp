@@ -40,7 +40,7 @@ ntp$ cat data/ntp/simpsons.nlt
 
 ## Running
 
-The main file for running NTP is `ntp/experiments/learn.py`
+The main file for running NTP is `ntp/experiments/learn.py` which takes the path to a configuration file as argument.
 
 ## Code Structure
 
