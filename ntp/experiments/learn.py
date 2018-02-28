@@ -27,6 +27,7 @@ logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 
 tf.set_random_seed(1337)
 np.random.seed(1337)
+random.seed(1337)
 
 if __name__ == '__main__':
     if len(sys.argv) > 1:
