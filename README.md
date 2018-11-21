@@ -79,6 +79,7 @@ nosetests
 - [Tim Rocktäschel](https://rockt.github.com)
 - [Sebastian Riedel](http://www.riedelcastro.org/)
 - [Pasquale Minervini](http://www.neuralnoise.com/)
+- [Matko Bosnjak](http://matko.info/)
 - [Johannes Welbl](https://jowel.gitlab.io/welbl/)
 
 ## Citation
